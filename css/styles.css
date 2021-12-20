@@ -332,28 +332,28 @@
 
 #whatsapp {
     color: #2fed2f !important;
-    transition: 0.5s ease-in;
+    transition: 0.3s ease-in;
 }
 #whatsapp:hover {
     color: #ffffff !important;
 }
 #instagram {
     color: #ff507c !important;
-    transition: 0.5s ease-in;
+    transition: 0.3s ease-in;
 }
 #instagram:hover {
     color: #ffffff !important;
 }
 #twitter {
     color: #18c3ee !important;
-    transition: 0.5s ease-in;
+    transition: 0.3s ease-in;
 }
 #twitter:hover {
     color: #ffffff !important;
 }
 #facebook {
-    color: #5196fd !important;
-    transition: 0.5s ease-in;
+    color: #2361ce !important;
+    transition: 0.3s ease-in;
 }
 #facebook:hover {
     color: #ffffff !important;
@@ -361,7 +361,7 @@
 
 #snapchat {
     color: #fbff10 !important;
-    transition: 0.5s ease-in;
+    transition: 0.3s ease-in;
 }
 #snapchat:hover {
     color: #ffffff !important;
