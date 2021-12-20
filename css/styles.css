@@ -2,7 +2,7 @@
   --main: #766884;
   --WebsiteColor: #373636;
   /*--AppsColor: #373636;*/
-  --AppsColor: #85229773;
+  --AppsColor: #85229708;
   --Color: #373636;
 }
 
@@ -365,4 +365,15 @@
 }
 #snapchat:hover {
     color: #ffffff !important;
+}
+
+.footer_div1 {
+    background: #85229700;
+    border-radius: 8px;
+    padding: 14px;
+    direction: rtl;
+    margin: -4px;
+    margin-top: 13px;
+    text-align: center;
+	line-height: 0; !important;
 }
